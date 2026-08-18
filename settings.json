@@ -1,7 +1,7 @@
 {
-  "name": "EJ",
+  "name": "EJ2090",
   "bot-account": {
-    "username": "EJ",
+    "username": "EJ2090",
     "password": "",
     "type": "offline"
   },
@@ -14,12 +14,12 @@
   "position": {
     "enabled": true,
     "x": 0,
-    "y": 100,
+    "y": 200,
     "z": 0
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "chalol78"
     },
     "anti-afk": {
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
