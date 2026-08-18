@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ukgat-01.omenhosting.xyz",
+    "ip": "ukgat-01.omenhosting.xyz:30739",
     "port": 30739,
     "version": "26.2",
     "try-creative": false
